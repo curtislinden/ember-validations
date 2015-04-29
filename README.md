@@ -48,7 +48,7 @@ validations to:
 
 ```javascript
 import Ember from 'ember';
-import EmberValidations from 'ember-validations';
+import EmberValidations from 'ember-validations/mixin';
 
 export default Ember.ObjectController.extend(EmberValidations);
 ```
